@@ -32,5 +32,14 @@ header h2 {
     min-height: 200px;
 }
 .navbar {
-    background-color:rgb(170, 15, 137);
+    background-color: #901CAD;
 }
+.tab-content.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+a, a:hover {
+    color: inherit;
+    text-decoration: none;
+  }
